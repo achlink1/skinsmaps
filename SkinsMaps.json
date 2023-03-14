@@ -40,6 +40,20 @@
         "https://ia801900.us.archive.org/2/items/k_prev2/k.jpg"
       ]
     },
+    
+    {
+      "title": "MineCarft Medieval house",
+      "mapLink": "https://static.planetminecraft.com/files/resource_media/schematic/3-litematic-e720.zip",
+      "isLocked" : false ,
+      "coins" : 0 ,
+      "description": "your description her about forest pack",
+      "preview": [
+        "https://static.planetminecraft.com/files/image/minecraft/project/2023/378/16593181_l.webp",
+        "https://static.planetminecraft.com/files/image/minecraft/project/2023/378/16593183_l.webp",
+        "https://ia801900.us.archive.org/2/items/k_prev2/k.jpg"
+      ]
+    },
+    
     {
       "title": "MineCarft Prisson",
       "mapLink": "https://zonekapp.com/MineCraft/EscapeBedrock.zip",

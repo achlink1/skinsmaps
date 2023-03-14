@@ -1,7 +1,7 @@
 {
   "AdsController": {
       
-    "AdNetwork"               : "IronSource",
+    "AdNetwork"               : "ironSource",
     
     "AdMob_ID"                : "pub-3940256099942544",
     "AdMob_Banner"            : "",

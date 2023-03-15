@@ -1,36 +1,36 @@
 {
   "AdsController": {
       
-    "AdNetwork"               : "ironSource",
+    "AdNetwork"               : "",
     
-    "AdMob_ID"                : "pub-3940256099942544",
+    "AdMob_ID"                : "",
     "AdMob_Banner"            : "",
     "AdMob_InterstitialAd"    : "",
     "AdMob_Native"            : "",
     "AdMob_RewardAd"          : "",
     
-    "Facebook_Banner"         : "",
-    "Facebook_InterstitialAd" : "",
-    "Facebook_Native"         : "",
-    "Facebook_RewardAd"       : "",
+    "Facebook_Banner"         : "692961278482629_692963411815749",
+    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
+    "Facebook_Native"         : "692961278482629_857100538735368",
+    "Facebook_RewardAd"       : "692961278482629_857106118734810",
     
-    "Applovin_Banner"         : "",
-    "Applovin_InterstitialAd" : "",
-    "Applovin_Native"         : "",
-    "Applovin_RewardAd"       : "",
+    "Applovin_Banner"         : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
+    "Applovin_Native"         : "76af75d288a7ada9",
+    "Applovin_RewardAd"       : "76af75d288a7ada9",
 
-    "Unity_GameID"            : "",
+    "Unity_GameID"            : "4076527",
     "Unity_Banner"            : "BannerAd",
     "Unity_InterstitialAd"    : "InterstitialAd",
     "Unity_RewardAd"          : "Rewarded_Android",
 
-    "IronSourceKey"           : "16ab616d5"
+    "IronSourceKey"           : "1197d7c85"
   },
   
   "Maps": [
     {
       "title": "MineCarft pack forest",
-      "mapLink": "https://zonekapp.com/MineCraft/EscapeBedrock.zip",
+      "mapLink": "https://static.planetminecraft.com/files/resource_media/schematic/minearena.zip",
       "isLocked" : false ,
       "coins" : 0 ,
       "description": "your description her about forest pack",
@@ -42,17 +42,18 @@
     },
     
     {
-      "title": "MineCarft Medieval house",
-      "mapLink": "https://static.planetminecraft.com/files/resource_media/schematic/3-litematic-e720.zip",
-      "isLocked" : true ,
+      "title": "MineCarft Cat Plush",
+      "mapLink": "https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "isLocked" : false ,
       "coins" : 0 ,
       "description": "your description her about forest pack",
       "preview": [
-        "https://static.planetminecraft.com/files/image/minecraft/project/2023/378/16593181_l.webp",
-        "https://static.planetminecraft.com/files/image/minecraft/project/2023/378/16593183_l.webp",
-        
+        "https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+        "https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+        "https://aliendro.id/uploads/demo/skinaddonmap/cat.png"
       ]
     },
+    
     
     {
       "title": "MineCarft Prisson",
@@ -125,28 +126,17 @@
           "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/blue-boy-21240831.png",
           "locked" : true
       },
-    
-    {
-          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/03/08/blue-dino-21402900.png?v543",
-          "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/03/08/blue-dino-21402900.png?v543",
-          "locked" : true
-      },
-    
       {
-          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/03/08/eternal-youth---rce-21402887.png",
-          "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/03/08/eternal-youth---rce-21402887.png",
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/blue-boy-21240831.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/blue-boy-21240831.png",
           "locked" : true
       },
-    
-       
-    {
-          "preview": "https://lh3.googleusercontent.com/SMkdgKEe6Rhx3X2_Qz_0BM1CqxhSGOIbCTCycr6SrdP_8kKl65nsOWfdsTypaso5lvPInfl9k_Cf5DNV9vPlRA",
-          "texture": "https://lh3.googleusercontent.com/SMkdgKEe6Rhx3X2_Qz_0BM1CqxhSGOIbCTCycr6SrdP_8kKl65nsOWfdsTypaso5lvPInfl9k_Cf5DNV9vPlRA",
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/03/02/astronaut-21384274.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/03/02/astronaut-21384274.png",
           "locked" : true
       }
-    
-    
-     
+      
       
       ],
   
